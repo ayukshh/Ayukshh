@@ -9,7 +9,7 @@ I'm a passionate Full Stack JavaScript Developer specializing in building modern
 - 🌱 Always learning new technologies and best practices in web development  
 - 👯 Open to collaborate on exciting full stack projects  
 - 💬 Ask me about JavaScript, React, Node.js, Express, and building REST APIs  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/your-linkedin) | ayukshh@example.com
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ayukshh/) | 
 
 ## 🛠️ Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
